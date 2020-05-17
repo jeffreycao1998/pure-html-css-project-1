@@ -1,0 +1,13 @@
+@media (max-width: 1477px) {
+  section {
+    width: 100%;
+  }
+  .section-features .box {
+    width: 80%;
+  }
+}
+
+/* Small tablet to big tablet: from 768px to 1023px */
+/* Small phone to small tablet: from 481px to 767px */
+/* Small phone: from 0 to 480px */
+/*# sourceMappingURL=queries.css.map */
