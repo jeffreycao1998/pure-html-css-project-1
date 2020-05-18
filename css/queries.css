@@ -1,0 +1,61 @@
+@media (max-width: 1450px) {
+  .section-transition .picture-container {
+    width: 1000px;
+    height: 1000px;
+  }
+  .section-features .box {
+    width: 90%;
+  }
+  .section-recommendations .recommendations-box {
+    width: 90%;
+  }
+  .section-collage .container-container {
+    width: 1000px;
+    height: 1500px;
+  }
+  .section-contact .contact-container {
+    width: 90%;
+    margin: 120px auto;
+  }
+}
+
+@media (max-width: 1365px) {
+  html, body {
+    font-size: 16px;
+  }
+  .section-frontpage .bottom-of-page {
+    opacity: 0;
+  }
+  .section-transition .picture-container {
+    margin-top: 30px;
+    width: 800px;
+    height: 800px;
+    font-size: 90%;
+  }
+  .section-transition .text-container {
+    opacity: 0;
+  }
+  .section-collage .container-container {
+    margin: -15% auto 0 auto;
+    width: 800px;
+    height: 1200px;
+  }
+  .section-features .box {
+    height: 100%;
+  }
+  .section-features .box .text .caption {
+    margin-top: 20%;
+  }
+  .section-features .box .text .button {
+    margin-bottom: 20%;
+  }
+  .section-brands .grid {
+    width: 900px;
+    height: 300px;
+  }
+}
+
+/* Small tablet to big tablet: from 768px to 1023px */
+/* Small phone to small tablet: from 481px to 767px */
+/* Small phone: from 0 to 480px */
+/*# sourceMappingURL=queries.css.map */
